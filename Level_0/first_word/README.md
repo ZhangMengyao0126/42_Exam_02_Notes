@@ -1,4 +1,4 @@
-···
+```
 Assignment name  : first_word
 Expected files   : first_word.c
 Allowed functions: write
@@ -26,4 +26,4 @@ $
 $> ./first_word "  lorem,ipsum  " | cat -e
 lorem,ipsum$
 $>
-···
+```
