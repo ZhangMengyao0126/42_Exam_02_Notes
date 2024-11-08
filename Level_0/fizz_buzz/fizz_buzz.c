@@ -16,7 +16,7 @@ void write_number(int number)
 }
 
 
-int main ()
+/*int main ()
 {
     int number;
 
@@ -34,4 +34,5 @@ int main ()
         write(1, "\n", 1);
         number++;
     }
-}
+    return (0);
+}*/
